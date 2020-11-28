@@ -3,7 +3,10 @@
 
 * 請先安裝和客戶端版本相同之Google Chrome Driver
 
+https://tinyurl.com/y6zqvcfp
+
 * 並且將Driver 放入PATH中
+
 
 
 
