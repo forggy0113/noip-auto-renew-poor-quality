@@ -1,5 +1,5 @@
 # noip-auto-renew-poor-quality
-# noip30天試用自動延長(旗艦版)
+# noip30天試用自動延長(DX旗艦版)
 
 * 請先安裝和客戶端版本相同之Google Chrome Driver
 
