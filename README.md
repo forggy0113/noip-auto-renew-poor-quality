@@ -49,9 +49,9 @@ https://tinyurl.com/y6zqvcfp
 
   * 其實還要安裝 psutil 還有 selenium 才能執行，~_作者沒講的BUG_~。
   
-  * 可以透過 $pip install psutil 來安裝。
+  * 可以透過 ```pip install psutil``` 來安裝。
 
-  * 可以透過 $pip install selenium 來安裝。
+  * 可以透過 ```pip install selenium``` 來安裝。
 
   * 可以自定義PATH了，_撒花_。
 
