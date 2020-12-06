@@ -2,7 +2,6 @@ from selenium import webdriver
 import time
 import psutil
 import json
-from os import _exit
 
 options = webdriver.ChromeOptions()
 options.add_argument("--incognito")
@@ -31,9 +30,9 @@ while n <= 3:
     try:
         driver.find_element_by_css_selector('[class="btn btn-labeled btn-confirm"]')
     except:
-        driver.quit()
-        _exit(0)
-
+        break
     Confirm_button =driver.find_element_by_css_selector('[class="btn btn-labeled btn-confirm"]')     
     Confirm_button.click()
     n += 1
+    
+driver.close()
