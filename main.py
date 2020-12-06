@@ -35,4 +35,4 @@ while n <= 3:
     Confirm_button.click()
     n += 1
     
-driver.close()
+driver.quit()
